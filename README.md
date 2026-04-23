@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning [**Data Science**](htpps:://www.dicoding.com) at IDCamp
+- 🌱 I’m currently learning [**Data Science**](htpps:://dicoding.com) at IDCamp
+
+![Hi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI5NTdqN205MXp5ZDI0czc5NXQ1d2F1MHc3bzdscjVwMTljc3BqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0YmBoPL8p6xH43eNRT/giphy.gif)
